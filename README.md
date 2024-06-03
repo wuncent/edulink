@@ -1,2 +1,17 @@
 # edulink
-TFG - Proyecto "Conexión Inteligente con la Educación"
+TFG - Proyecto "EduLink: Conexión Inteligente con la Educación"
+Trabajo fin de estudio presentado por:	Vicente Villanueva González
+
+Resumen 
+El presente trabajo aborda la necesidad de mejorar la gestión administrativa y la comunicación en entornos educativos a través del desarrollo de una solución tecnológica innovadora. Partiendo de la problemática existente en la carga de trabajo de los profesores y la falta de una comunicación efectiva entre profesores, estudiantes y padres, se propuso "EduLink: Conexión Inteligente con la Educación" como una plataforma integral para abordar estas dificultades.
+La solución propuesta consiste en una plataforma tecnológica que automatiza procesos administrativos como la asignación de tareas y la gestión de calificaciones, al tiempo que facilita la comunicación a través de herramientas de mensajería instantánea y notificaciones en tiempo real sobre el progreso académico de los estudiantes. Se destacan aspectos novedosos, como la integración de inteligencia artificial para la generación de informes académicos y el análisis de datos para identificar patrones de comportamiento estudiantil.
+Los resultados obtenidos allí donde se ha introducido alguna plataforma, aunque sea de manera aislada, reflejan una mejora significativa en la eficiencia administrativa  , con una reducción notable en la carga de trabajo de los profesores y una mayor transparencia en la gestión de datos académicos. Además, se evidencia un fortalecimiento en la comunicación entre los diferentes actores educativos, lo que ha favorecido la identificación temprana de problemas académicos y la implementación de estrategias de intervención adecuadas.
+En conclusión, "EduLink" representa una solución integral y tecnológicamente avanzada para mejorar la experiencia educativa, destacando por su enfoque innovador, su utilidad práctica y su potencial impacto positivo en la comunidad educativa.
+Palabras clave: Educación, tecnología, gestión, comunicación, innovación.
+
+Abstract
+The present work addresses the need to improve administrative management and communication in educational environments through the development of an innovative technological solution. Starting from the existing problem of teachers' workload and the lack of effective communication among teachers, students, and parents, "EduLink: Your Intelligent Connection with Education" was proposed as a comprehensive platform to address these difficulties.
+The proposed solution consists of a technological platform that automates administrative processes such as task assignment and grade management, while facilitating communication through instant messaging tools and real-time notifications about students' academic progress. Novel aspects are highlighted, such as the integration of artificial intelligence for generating academic reports and data analysis to identify patterns of student behavior.
+The results obtained reflect a significant improvement in administrative efficiency, with a noticeable reduction in teachers' workload and greater transparency in the management of academic data. Furthermore, there is evidence of strengthened communication among the different educational stakeholders, which has facilitated the early identification of academic problems and the implementation of appropriate intervention strategies.
+In conclusion, "EduLink" represents a comprehensive and technologically advanced solution to enhance the educational experience, standing out for its innovative approach, practical utility, and potential positive impact on the educational community.
+Keywords: Education, technology, management, communication, innovation.
